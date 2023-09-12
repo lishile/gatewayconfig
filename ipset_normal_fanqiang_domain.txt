@@ -10,3 +10,7 @@ google.cn
 googleapis.cn
 maven.google.com
 pagure.io
+tuxfamily.org
+updates.jenkins.io
+www.postfix.org
+www.tpr.scea.com
