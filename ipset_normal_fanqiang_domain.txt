@@ -15,4 +15,3 @@ updates.jenkins.io
 www.postfix.org
 www.tpr.scea.com
 meta.com
-zms.tjlg415bim.xyz
