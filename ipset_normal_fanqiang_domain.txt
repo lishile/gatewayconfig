@@ -6,7 +6,6 @@ apnic.net
 bitbucket.org
 fastly.net
 ganjing.com
-dl.google.com
 google.cn
 googleapis.cn
 maven.google.com
