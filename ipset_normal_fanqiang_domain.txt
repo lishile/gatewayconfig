@@ -17,3 +17,6 @@ www.tpr.scea.com
 meta.com
 openai.com
 chatgpt.com
+tiktokcdn-us.com
+tiktok.com
+tiktokcdn.com
