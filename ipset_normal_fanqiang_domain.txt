@@ -1,5 +1,4 @@
 github.com
-lishile.xyz
 githubusercontent.com
 gitlab.com
 apnic.net
