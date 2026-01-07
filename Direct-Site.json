@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain": [
-        "ntp.aliyun.com"
+        "ntp.aliyun.com",
+        "ipinfo.io"
       ],
       "domain_suffix": [
        "lishile.dpdns.org",
