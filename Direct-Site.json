@@ -1,17 +1,20 @@
 {
-    "version": 3,
-    "rules": {
-        "domain": [
-            "ntp.aliyun.com"
-        ],
-        "domain_suffix": [
-            "lishile.dpdns.org",
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "ntp.aliyun.com",
+          "baidu.com"
+      ],
+      "domain_suffix": [
+       "lishile.dpdns.org",
             "lishile.xyz",
             "lishileks.dedyn.io",
             "lishile.dpdns.org",
             "lslks.dpdns.org",
             "syybbz.dpdns.org",
             "lslsty.dpdns.org"
-        ]
+      ]
     }
+  ]
 }
