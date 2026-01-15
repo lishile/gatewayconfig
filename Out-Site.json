@@ -3,15 +3,11 @@
     "rules": [
         {
             "domain": [
-                "puppetdoc.anytype.io",
-                "anytype.lishile.dpdns.org"
+                "puppetdoc.anytype.io"
             ],
             "domain_suffix": [
-                "anytype.io",
-                "nstool.laiqukankan.com",
-                "nstool.321fenx.com",
-                "nstool.zhuanzfx.com",
-                "nstool.netease.com"
+                "anytype.io"
+               
             ]
         }
     ]
