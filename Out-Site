@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "rules": [
+        {
+            "domain": [
+                "puppetdoc.anytype.io"
+            ],
+            "domain_suffix": [
+                "anytype.io"
+            ]
+        }
+    ]
+}
