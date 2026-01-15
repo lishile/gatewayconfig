@@ -3,7 +3,8 @@
     "rules": [
         {
             "domain": [
-                "puppetdoc.anytype.io"
+                "puppetdoc.anytype.io",
+                "anytype.lishile.dpdns.org"
             ],
             "domain_suffix": [
                 "anytype.io"
