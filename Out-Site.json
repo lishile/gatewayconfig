@@ -3,7 +3,8 @@
     "rules": [
         {
             "domain": [
-                "puppetdoc.anytype.io"
+                "puppetdoc.anytype.io",
+                "only-383161-183-226-68-61.nstool.netease.com"
             ],
             "domain_suffix": [
                 "anytype.io"
