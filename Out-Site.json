@@ -3,7 +3,8 @@
     "rules": [
         {
             "domain": [
-                "puppetdoc.anytype.io"
+                "puppetdoc.anytype.io",
+                "rausu.infini-cloud.net"
             ],
             "domain_suffix": [
                 "anytype.io"
