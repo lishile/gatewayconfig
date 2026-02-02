@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain": [
-        "ntp.aliyun.com"
+        "ntp.aliyun.com",
+        "rausu.infini-cloud.net"
       ],
       "domain_suffix": [
        "lishile.dpdns.org",
