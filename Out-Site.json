@@ -3,7 +3,8 @@
     "rules": [
         {
             "domain": [
-                "puppetdoc.anytype.io"
+                "puppetdoc.anytype.io",
+                "dmitus1.syybbz.indevs.in"
             ],
             "domain_suffix": [
                 "anytype.io"
