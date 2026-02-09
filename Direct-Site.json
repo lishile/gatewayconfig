@@ -3,10 +3,10 @@
     "rules": [
         {
             "domain": [
-                "ntp.aliyun.com",
-                "rausu.infini-cloud.net"
+                "ntp.aliyun.com"
             ],
             "domain_suffix": [
+                "infini-cloud.net",
                 "lishile.dpdns.org",
                 "lishile.xyz",
                 "lishileks.dedyn.io",
